@@ -4,9 +4,9 @@ public static String isVowel(String input){
     if(chars.size()>=1 && input != '') {
         String first = chars[0];
         if(first=='a'||first=='e'||first=='i'||first=='o'||first=='u'||first=='A'||first=='E'||first=='I'||first=='O'||first=='U')
-            return 'yes';
+            return 'It is a VOWEL';
         else    
-            return 'no';
+            return 'It is a CONSONANT';
     }
     else
         return 'please enter  a  character ';
