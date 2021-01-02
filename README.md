@@ -3,6 +3,7 @@
 
 ### Easy
 
+- [Hello World](/HelloWorld.cls) 
 - A character is a vowel or consonant
 - A character is an alphabet or not
 - Ascii values of a character
