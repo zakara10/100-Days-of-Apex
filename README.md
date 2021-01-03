@@ -8,7 +8,7 @@
 - [A character is an alphabet or not](/checkoddeven.cls)
 - Ascii values of a character
 - Uppercase, Lowercase or special character
-- A number is positive or negative
+- [A number is positive or negative](/checkSign.cls)
 - A number is even or odd
 - Swap two numbers without third variable
 - Area of a circle
