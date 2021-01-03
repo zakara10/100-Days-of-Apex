@@ -14,7 +14,7 @@
 - [Area of a circle](/getAreaofCirce.cls)
 - LCM of two numbers
 - GCD of two numbers
-- Greatest of two numbers
+- [Greatest of two numbers](/greaterofTwo.cls)
 - Greatest of three numbers
 - Number of digits in an integer
 - Sum of digits of a number
