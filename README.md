@@ -5,7 +5,7 @@
 
 - [Hello World](/HelloWorld.cls) 
 - [A character is a vowel or consonant](/isVowel.cls)
-- A character is an alphabet or not
+- [A character is an alphabet or not](/checkoddeven.cls)
 - Ascii values of a character
 - Uppercase, Lowercase or special character
 - A number is positive or negative
