@@ -11,7 +11,7 @@
 - [A number is positive or negative](/checkSign.cls)
 - A number is even or odd
 - [Swap two numbers without third variable](/swapTwoNumber.cls)
-- Area of a circle
+- [Area of a circle](/getAreaofCirce.cls)
 - LCM of two numbers
 - GCD of two numbers
 - Greatest of two numbers
