@@ -1,4 +1,4 @@
-public static String checkoddeven(Integer val){
+public static String checkOddEven(Integer val){
     if(val == 0)
         return 'Neither odd nor even';
     else{
@@ -10,5 +10,5 @@ public static String checkoddeven(Integer val){
     }
 }
 
-String check = checkoddeven(0);
+String check = checkOddEven(0);
 System.debug(check);
