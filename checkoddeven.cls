@@ -1,3 +1,6 @@
+// Created by: Roshan Kumar
+// Email: rohan10khushwaha@gmail.com
+
 public static String checkOddEven(Integer val){
     if(val == 0)
         return 'Neither odd nor even';
