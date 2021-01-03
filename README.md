@@ -10,7 +10,7 @@
 - Uppercase, Lowercase or special character
 - [A number is positive or negative](/checkSign.cls)
 - A number is even or odd
-- Swap two numbers without third variable
+- [Swap two numbers without third variable](/swapTwoNumber.cls)
 - Area of a circle
 - LCM of two numbers
 - GCD of two numbers
