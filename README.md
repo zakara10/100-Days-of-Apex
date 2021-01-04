@@ -5,17 +5,17 @@
 
 - [Hello World](/HelloWorld.cls) 
 - [A character is a vowel or consonant](/isVowel.cls)
-- [A character is an alphabet or not](/checkoddeven.cls)
+- [A character is an alphabet or not](/checkAlphabet.cls)
 - Ascii values of a character
 - Uppercase, Lowercase or special character
 - [A number is positive or negative](/checkSign.cls)
-- A number is even or odd
-- Swap two numbers without third variable
-- Area of a circle
+- [A number is even or odd](/checkoddeven.cls)
+- [Swap two numbers without third variable](/swapTwoNumber.cls)
+- [Area of a circle](/getAreaofCirce.cls)
 - LCM of two numbers
 - GCD of two numbers
-- Greatest of two numbers
-- Greatest of three numbers
+- [Greatest of two numbers](/greaterofTwo.cls)
+- [Greatest of three numbers](/greatestofThree.cls)
 - Number of digits in an integer
 - Sum of digits of a number
 - Sum of N natural numbers
