@@ -5,7 +5,7 @@
 
 - [Hello World](/HelloWorld.cls) 
 - [A character is a vowel or consonant](/isVowel.cls)
-- [A character is an alphabet or not](/checkAlphabet.cls)
+- [A character is an alphabet or not](/checkAlphabet.cls-+9)
 - Ascii values of a character
 - Uppercase, Lowercase or special character
 - [A number is positive or negative](/checkSign.cls)
@@ -21,7 +21,7 @@
 - Sum of N natural numbers
 - Sum of numbers in a given range
 - Reverse a given number
-- Factorial of a number
+- [Factorial of a number](/factorial.cls)
 - Fibonacci series up ton
 - Leap year or not
 - Prime number or not
