@@ -17,7 +17,7 @@
 - [Greatest of two numbers](/greaterofTwo.cls)
 - [Greatest of three numbers](/greatestofThree.cls)
 - Number of digits in an integer
-- Sum of digits of a number
+- [Sum of digits of a number](/sumOfDigit.cls)
 - [Sum of N natural numbers](sumOfNumber.cls)
 - Sum of numbers in a given range
 - Reverse a given number
